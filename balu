@@ -3,7 +3,5 @@ hello
 this is balu
 new file for conflicts
 this is for stashing
-<<<<<<< Updated upstream
+this is another stashing
 this is third stashing from london
-=======
->>>>>>> Stashed changes
